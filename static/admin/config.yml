@@ -1,7 +1,7 @@
 backend:
-- name: test-rep
-+ name: github
-+ repo: jacmilski/test-repo
+  - name: test-rep
+    name: github
+    repo: jacmilski/test-repo
 
 media_folder: static/img
 public_folder: /img
